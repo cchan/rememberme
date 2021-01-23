@@ -24,9 +24,9 @@ solos = [
     ("scaled/solo/scaled_Kyla-Solo-1.MOV.mp4.small.mp4", 10,  96 * 5.3,  96 * 9.3),
     ("scaled/solo/scaled_Clive_solo.mp4.small.mp4",      0,   96 * 9.3,  96 * 13.8),
     ("scaled/solo/scaled_zoey-solo-1.mp4.small.mp4",     25,  96 * 13.8, 96 * 17.6),
-    ("scaled/solo/scaled_TimJ_Solo_2.mp4.small.mp4",     25,  96 * 17.6, 96 * 21.8),
+    ("redos/TimJo_Solo_Take2.mp4.medium.mp4",            38,  96 * 17.6, 96 * 21.8),
     ("scaled/solo/scaled_Katherine_Solo.mp4.small.mp4",  55,  96 * 21.8, 96 * 25.6),
-    ("scaled/solo/scaled_TimJ_Solo_1.mp4.small.mp4",     30,  96 * 25.6, 96 * 29.9),
+    ("redos/TimJo_Solo_Take2.mp4.medium.mp4",            38,  96 * 25.6, 96 * 29.9),
     ("scaled/solo/scaled_Kelly-Solo-1.mp4.small.mp4",    115, 96 * 29.9, 96 * 100),
 ]
 
